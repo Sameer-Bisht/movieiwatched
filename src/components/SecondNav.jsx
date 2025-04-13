@@ -18,7 +18,8 @@ export const SecondNav = ()=>{
           <a className="nav-link" href="#">Best Movies Watched of 2025</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Worst Movies of 2025 </a>
+          <a className="nav-link"  target="_blank" href="https://github.com/Sameer-Bisht/movieiwatched">Source Code : Github </a>
+          
         </li>
         
       </ul>

@@ -23,8 +23,11 @@ export const Navbar = () => {
       </nav>
 
       <nav className="navbar bg-body-tertiary">
+          <a className="navbar-brand" href="https://github.com/Sameer-Bisht/movieiwatched">
+           source code
+          </a>
         <div className="container-fluid">
-          <span className="navbar-brand mb-0 h1">{numberOfMovies} Movies</span>
+          <span className="navbar-brand mb-0 h1">{numberOfMovies} Movies Watched</span>
         </div>
       </nav>
     </>
