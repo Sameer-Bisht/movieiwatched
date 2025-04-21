@@ -166,8 +166,23 @@
       "rating": "8",
       "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
      
+    },
+        {
+      "name": "Dum Laga Ke Haisha",
+      "id": "dumlagakehaisha",
+      "img_url": "https://m.media-amazon.com/images/I/71CkcnCJUTL._UF1000,1000_QL80_.jpg",
+      "rating": "8",
+      "description": "Prem, a school dropout, hesitantly marries an educated but overweight girl, Sandhya. However, the two come closer when they take part in a race, which involves Prem carrying Sandhya on his back."
+     
+    },
+        {
+      "name": "Attack On Titan",
+      "id": "dumlagakehaisha",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
+      "rating": "8",
+      "description": "Eren Jaeger, along with his sister and friends, joins the military in order to destroy the Titans, gigantic humanoids who live off human flesh."
+     
     }
-    
 
   ]
   
