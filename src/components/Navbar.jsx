@@ -1,11 +1,10 @@
-import moviesList from "../api/MovieWatchlist.json";
+
 
 export const Navbar = () => {
-  const numberOfMovies = moviesList.length;
 
   return (
     <>
-      <nav className="navbar bg-body-tertiary">
+      <nav  className="navbar bg-body-tertiary">
         <div
           style={{
             display: "flex",
@@ -16,20 +15,13 @@ export const Navbar = () => {
           }}
           className="container-fluid"
         >
-          <a className="navbar-brand" href="#">
-            My Movie Watchlist 2025
+          <a style={{fontSize:"3rem"}} className="navbar-brand" href="/">
+            C for Cinema
           </a>
         </div>
       </nav>
 
-      <nav className="navbar bg-body-tertiary">
-          <a className="navbar-brand" href="https://github.com/Sameer-Bisht/movieiwatched">
-           source code
-          </a>
-        <div className="container-fluid">
-          <span className="navbar-brand mb-0 h1">{numberOfMovies} Movies Watched</span>
-        </div>
-      </nav>
+     
     </>
   );
 };

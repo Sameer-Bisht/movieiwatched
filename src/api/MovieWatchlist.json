@@ -1,174 +1,197 @@
 [
-    {
-      "name": "The Wild Robot",
-      "id": "the-wild-robot",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNe6RMf9IjyZysISoqyWIScpM_OGFXgYNkw&s",
-      "rating": "9",
-      "description": "An intelligent robot finds herself alone on an island and must learn to survive in the wilderness.",
-      "cast": ["Lupita Nyong'o", "Pedro Pascal"],
-      "genre": ["Animation", "Adventure", "Family"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Kabhi Khushi Kabhi Gham",
-      "id": "kabhi-khushi-kabhie-gham",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7JDfewf86VmNLkBCKS_uaeziaAiRYkEKbQ&s",
-      "rating": "7.4",
-      "description": "A wealthy family faces turmoil when their adopted son marries against their wishes.",
-      "cast": ["Shah Rukh Khan", "Kajol", "Hrithik Roshan", "Amitabh Bachchan"],
-      "genre": ["Drama", "Romance"],
-      "watch_url": "https://www.netflix.com/in/title/60036728"
-    },
-    {
-      "name": "Swades",
-      "id": "swades",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXsMWkP1li1NjysopcWv1aUZedb8hb2D-HA&s",
-      "rating": "8.2",
-      "description": "An NRI returns to India and reconnects with his roots while trying to improve rural life.",
-      "cast": ["Shah Rukh Khan", "Gayatri Joshi"],
-      "genre": ["Drama"],
-      "watch_url": "https://www.netflix.com/in/title/70022393"
-    },
-    {
-      "name": "Dil Se",
-      "id": "dil-se",
-      "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Dil_Se_poster.jpg",
-      "rating": "6",
-      "description": "A radio journalist falls for a mysterious woman with a secret past.",
-      "cast": ["Shah Rukh Khan", "Manisha Koirala"],
-      "genre": ["Romance", "Thriller"],
-      "watch_url": "https://www.netflix.com/in/title/60036752"
-    },
-    {
-      "name": "Kuch Kuch Hota Hai",
-      "id": "kuch-kuch-hota-hai",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "rating": "6",
-      "description": "Two college friends reunite years later, rekindling old feelings and memories.",
-      "cast": ["Shah Rukh Khan", "Kajol", "Rani Mukerji"],
-      "genre": ["Romance", "Drama"],
-      "watch_url": "https://www.netflix.com/in/title/60037055"
-    },
-    {
-      "name": "Sikandar",
-      "id": "sikandar",
-      "img_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2rSFAjw7bIuKeeroctFdpmFSJzjvC7uGxKHQHHsraGRcoY0wumBvOXnYCIMCSD4KpdlPNksViq4JFl_-fldGBxp8FDzz53h17X78E0Q",
-      "rating": "2",
-      "description": "An upcoming political action drama set in Punjab.",
-      "cast": ["Kartik Aaryan"],
-      "genre": ["Action", "Drama"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Naadaniyaan",
-      "id": "naadaniyaan",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BNWZhOGU0MTktNWNkMS00MWNmLWFiYTktOWRkNTJhYzlkNzQyXkEyXkFqcGc@._V1_.jpg",
-      "rating": "3",
-      "description": "A light-hearted sitcom about a quirky family and their humorous misadventures.",
-      "cast": ["Fazal Hussain", "Nida Yasir"],
-      "genre": ["Comedy", "Family"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Fateh",
-      "id": "fateh",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_.jpg",
-      "rating": "6",
-      "description": "Fateh is an upcoming action-thriller film featuring cybercrime themes.",
-      "cast": ["Sonu Sood"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Manjummel Boys",
-      "id": "manjummel-boys",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uNTzF4J6PaC9HcBGyUCuukhAGaOBKl1qC9opNbUdKdR_2iY7WYAivuxONFNusGPJATDWbQ",
-      "rating": "8.7",
-      "description": "A group of friends takes on a daring rescue mission, inspired by a real story.",
-      "cast": ["Soubin Shahir", "Sreenath Bhasi"],
-      "genre": ["Adventure", "Drama"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Aavesham",
-      "id": "aavesham",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEt28YUH61EVhDKe9-Hv3_jS1pG6Kgu9LICg&s",
-      "rating": "8.4",
-      "description": "College students team up with a gangster to exact revenge, leading to chaos and laughs.",
-      "cast": ["Fahadh Faasil"],
-      "genre": ["Action", "Comedy"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Deva",
-      "id": "deva",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnjgjk0Gh1D0CwPduFQTBsHwgNAVNVimNoSqS8LRqim_ssk_tqD6qa7ucqjTNLvYoN3YG",
-      "rating": "7",
-      "description": "A rebellious cop uncovers a dark conspiracy while investigating a high-profile case.",
-      "cast": ["Shahid Kapoor", "Pooja Hegde"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Skyforce",
-      "id": "skyforce",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BNDBkYWNkNmEtNTdjNS00YzZjLWIzZjMtMmEwZTNhYjJiYWM4XkEyXkFqcGc@._V1_.jpg",
-      "rating": "7",
-      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly consequences. Amid rising tensions, a group of individuals seek the truth behind the war",
-      "cast": ["Akshay Kumar"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Badlapur",
-      "id": "badlapur",
-      "img_url": "https://content1.jdmagicbox.com/comp/jd_social/news/2018aug06/image-195656-pvqe1vi6ye.jpg?fit=around|140:205&crop=140:205;*,*",
-      "rating": "9",
-      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly Raghu loses his wife and son when two bank robbers steal their car in a bid to run. Devastated by the incident, Raghu decides to take revenge on the culprits, Liak and Harman, for killing his family.",
-      "cast": ["VArun Dhawan"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Highway",
-      "id": "highway",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E82cjkQE-XWKFoXtbmwapqOP3SFU-QRO0gHhSceCgZ1v9Qqr15u6dHv8y0Q38LqUzBE&usqp=CAU",
-      "rating": "8",
-      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life",
-            
-      "cast": ["Alia Bhatt, Randeep Hooda"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "Masaan",
-      "id": "masaan",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BMTU4NTE0NTMyNl5BMl5BanBnXkFtZTgwNjI5MDkxNjE@._V1_.jpg",
-      "rating": "8",
-      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life",
-            
-      "cast": ["e, Richa chadha"],
-      "genre": ["Action", "Thriller"],
-      "watch_url": "N/A"
-    },
-    {
-      "name": "October",
-      "id": "october",
-      "img_url": "https://wallpaperaccess.com/full/11757988.jpg",
-      "rating": "8",
-      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life"
-     
-    },
-    {
-      "name": "Hasee Toh Phasee",
-      "id": "hassetohphasee",
-      "img_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTUyMzE3Ml5BMl5BanBnXkFtZTgwOTI5MDEwMTE@._V1_.jpg",
-      "rating": "8",
-      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
-     
-    }
-    
+  {
+    "name": "The Wild Robot",
+    "id": "the-wild-robot",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNe6RMf9IjyZysISoqyWIScpM_OGFXgYNkw&s",
+    "rating": "9",
+    "description": "An intelligent robot finds herself alone on an island and must learn to survive in the wilderness.",
+    "cast": ["Lupita Nyong'o", "Pedro Pascal"],
+    "genre": ["Animation", "Adventure", "Family"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Kabhi Khushi Kabhi Gham",
+    "id": "kabhi-khushi-kabhie-gham",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7JDfewf86VmNLkBCKS_uaeziaAiRYkEKbQ&s",
+    "rating": "7.4",
+    "description": "A wealthy family faces turmoil when their adopted son marries against their wishes.",
+    "cast": ["Shah Rukh Khan", "Kajol", "Hrithik Roshan", "Amitabh Bachchan"],
+    "genre": ["Drama", "Romance"],
+    "watch_url": "https://www.netflix.com/in/title/60036728"
+  },
+  {
+    "name": "Swades",
+    "id": "swades",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXsMWkP1li1NjysopcWv1aUZedb8hb2D-HA&s",
+    "rating": "8.2",
+    "description": "An NRI returns to India and reconnects with his roots while trying to improve rural life.",
+    "cast": ["Shah Rukh Khan", "Gayatri Joshi"],
+    "genre": ["Drama"],
+    "watch_url": "https://www.netflix.com/in/title/70022393"
+  },
+  {
+    "name": "Dil Se",
+    "id": "dil-se",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Dil_Se_poster.jpg",
+    "rating": "6",
+    "description": "A radio journalist falls for a mysterious woman with a secret past.",
+    "cast": ["Shah Rukh Khan", "Manisha Koirala"],
+    "genre": ["Romance", "Thriller"],
+    "watch_url": "https://www.netflix.com/in/title/60036752"
+  },
+  {
+    "name": "Kuch Kuch Hota Hai",
+    "id": "kuch-kuch-hota-hai",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": "6",
+    "description": "Two college friends reunite years later, rekindling old feelings and memories.",
+    "cast": ["Shah Rukh Khan", "Kajol", "Rani Mukerji"],
+    "genre": ["Romance", "Drama"],
+    "watch_url": "https://www.netflix.com/in/title/60037055"
+  },
+  {
+    "name": "Sikandar",
+    "id": "sikandar",
+    "img_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2rSFAjw7bIuKeeroctFdpmFSJzjvC7uGxKHQHHsraGRcoY0wumBvOXnYCIMCSD4KpdlPNksViq4JFl_-fldGBxp8FDzz53h17X78E0Q",
+    "rating": "2",
+    "description": "An upcoming political action drama set in Punjab.",
+    "cast": ["Kartik Aaryan"],
+    "genre": ["Action", "Drama"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Naadaniyaan",
+    "id": "naadaniyaan",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNWZhOGU0MTktNWNkMS00MWNmLWFiYTktOWRkNTJhYzlkNzQyXkEyXkFqcGc@._V1_.jpg",
+    "rating": "3",
+    "description": "A light-hearted sitcom about a quirky family and their humorous misadventures.",
+    "cast": ["Fazal Hussain", "Nida Yasir"],
+    "genre": ["Comedy", "Family"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Fateh",
+    "id": "fateh",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_.jpg",
+    "rating": "6",
+    "description": "Fateh is an upcoming action-thriller film featuring cybercrime themes.",
+    "cast": ["Sonu Sood"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Manjummel Boys",
+    "id": "manjummel-boys",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uNTzF4J6PaC9HcBGyUCuukhAGaOBKl1qC9opNbUdKdR_2iY7WYAivuxONFNusGPJATDWbQ",
+    "rating": "8.7",
+    "description": "A group of friends takes on a daring rescue mission, inspired by a real story.",
+    "cast": ["Soubin Shahir", "Sreenath Bhasi"],
+    "genre": ["Adventure", "Drama"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Aavesham",
+    "id": "aavesham",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEt28YUH61EVhDKe9-Hv3_jS1pG6Kgu9LICg&s",
+    "rating": "8.4",
+    "description": "College students team up with a gangster to exact revenge, leading to chaos and laughs.",
+    "cast": ["Fahadh Faasil"],
+    "genre": ["Action", "Comedy"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Deva",
+    "id": "deva",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnjgjk0Gh1D0CwPduFQTBsHwgNAVNVimNoSqS8LRqim_ssk_tqD6qa7ucqjTNLvYoN3YG",
+    "rating": "7",
+    "description": "A rebellious cop uncovers a dark conspiracy while investigating a high-profile case.",
+    "cast": ["Shahid Kapoor", "Pooja Hegde"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Skyforce",
+    "id": "skyforce",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNDBkYWNkNmEtNTdjNS00YzZjLWIzZjMtMmEwZTNhYjJiYWM4XkEyXkFqcGc@._V1_.jpg",
+    "rating": "7",
+    "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly consequences. Amid rising tensions, a group of individuals seek the truth behind the war",
+    "cast": ["Akshay Kumar"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Badlapur",
+    "id": "badlapur",
+    "img_url": "https://content1.jdmagicbox.com/comp/jd_social/news/2018aug06/image-195656-pvqe1vi6ye.jpg?fit=around|140:205&crop=140:205;*,*",
+    "rating": "9",
+    "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly Raghu loses his wife and son when two bank robbers steal their car in a bid to run. Devastated by the incident, Raghu decides to take revenge on the culprits, Liak and Harman, for killing his family.",
+    "cast": ["VArun Dhawan"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Highway",
+    "id": "highway",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E82cjkQE-XWKFoXtbmwapqOP3SFU-QRO0gHhSceCgZ1v9Qqr15u6dHv8y0Q38LqUzBE&usqp=CAU",
+    "rating": "8",
+    "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life",
+          
+    "cast": ["Alia Bhatt, Randeep Hooda"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "Masaan",
+    "id": "masaan",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTU4NTE0NTMyNl5BMl5BanBnXkFtZTgwNjI5MDkxNjE@._V1_.jpg",
+    "rating": "8",
+    "description": "In Varanasi, Devi struggles to shake off the social stigma of pre-marital sexual relations. Meanwhile, lovers Deepak and Shalu attempt to transcend the restrictions of their casteist society",
+          
+    "cast": ["e, Richa chadha"],
+    "genre": ["Action", "Thriller"],
+    "watch_url": "N/A"
+  },
+  {
+    "name": "October",
+    "id": "october",
+      
+    "img_url": "https://wallpaperaccess.com/full/11757988.jpg",
+    "rating": "8",
+    "description": "Dan and Shiuli are brought closer in an unexpected turn of events. Eventually, they develop feelings for each other and establish a bond unlike any other which leads to an internal awakening."
+   
+  },
+  {
+    "name": "Hasee Toh Phasee",
+    "id": "hassetohphasee",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTUyMzE3Ml5BMl5BanBnXkFtZTgwOTI5MDEwMTE@._V1_.jpg",
+    "rating": "8",
+    "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+   
+  },
+      {
+    "name": "Dum Laga Ke Haisha",
+    "id": "dumlagakehaisha",
+    "img_url": "https://m.media-amazon.com/images/I/71CkcnCJUTL._UF1000,1000_QL80_.jpg",
+    "rating": "8",
+    "description": "Prem, a school dropout, hesitantly marries an educated but overweight girl, Sandhya. However, the two come closer when they take part in a race, which involves Prem carrying Sandhya on his back."
+   
+  },
+      {
+    "name": "Attack On Titan",
+    "id": "attackontitan",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
+    "rating": "9.8",
+    "description": "Eren Jaeger, along with his sister and friends, joins the military in order to destroy the Titans, gigantic humanoids who live off human flesh."
+   
+  },{
+    "name": "Spirited Away",
+    "id": "spirited-away",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8.5",
+    "description": "Ten-year-old Chihiro and her parents end up at an abandoned amusement park inhabited by supernatural beings. Soon, she learns that she must work to free her parents who have been turned into pigs.."
+   
+  }
 
-  ]
-  
-  
+
+]
+
