@@ -2,7 +2,7 @@
    import { Navbar } from "./components/Navbar";
 import { SearchMovies } from "./components/SearchMovies";
 import { SecondNav } from "./components/SecondNav";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter  as Routes, Route } from "react-router-dom";
 
    const App = ()=>{
   return (
