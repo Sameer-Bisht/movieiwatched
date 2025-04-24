@@ -124,7 +124,7 @@
       "id": "badlapur",
       "img_url": "https://content1.jdmagicbox.com/comp/jd_social/news/2018aug06/image-195656-pvqe1vi6ye.jpg?fit=around|140:205&crop=140:205;*,*",
       "rating": "9",
-      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly Raghu loses his wife and son when two bank robbers steal their car in a bid to run. Devastated by the incident, Raghu decides to take revenge on the culprits, Liak and Harman, for killing his family.",
+      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly Raghu loses his wife and son when two bank robbers steal their car in a bid to run.",
       "cast": ["VArun Dhawan"],
       "genre": ["Action", "Thriller"],
       "watch_url": "N/A"
@@ -166,7 +166,24 @@
       "rating": "8",
       "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
      
+    },
+    {
+      "name": "Attack On Titan",
+      "id": "attack-on-titan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+     
+    },
+    {
+      "name": "Spirited Away",
+      "id": "spirited-away",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+     
     }
+    
     
 
   ]

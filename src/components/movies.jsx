@@ -10,7 +10,7 @@ export const Movies = () => {
          
           
 
-              <li key={currMovie.id}  style={{height:"auto",width:'15em', display:'flex',justifyContent:'center',alignItems:'center'}} className=" card m-2" >
+              <li key={currMovie.id}  style={{maxHeight:"43rem",width:'15em', display:'flex',justifyContent:'center',alignItems:'center'}} className=" card m-2" >
               <div className="card-body">
               <img style={{width: '14em',height: '20em'}} src={currMovie.img_url} className="card-img-top" alt="..." />
                 <h5 className="card-title">{currMovie.name}</h5>
