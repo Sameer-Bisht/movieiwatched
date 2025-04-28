@@ -2,11 +2,12 @@
    import { Navbar } from "./components/Navbar";
 import { SearchMovies } from "./components/SearchMovies";
 import { SecondNav } from "./components/SecondNav";
-import { BrowserRouter  as Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Router } from "react-router-dom";
 
    const App = ()=>{
   return (
     <BrowserRouter basename="/">
+
       <Routes>
         <Route path="/" element={
           

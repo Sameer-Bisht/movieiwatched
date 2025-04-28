@@ -163,7 +163,7 @@
       "name": "Hasee Toh Phasee",
       "id": "hassetohphasee",
       "img_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTUyMzE3Ml5BMl5BanBnXkFtZTgwOTI5MDEwMTE@._V1_.jpg",
-      "rating": "8",
+      "rating": "7",
       "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
      
     },
@@ -171,7 +171,7 @@
       "name": "Attack On Titan",
       "id": "attack-on-titan",
       "img_url": "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "rating": "8",
+      "rating": "9.8",
       "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
      
     },
@@ -182,6 +182,20 @@
       "rating": "8",
       "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
      
+    },
+    {
+      "name": "Fan",
+      "id": "fan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNWFjOTA3NzQtODUzNS00MWRlLWE5Y2YtNmMyZjU3YzkxYzI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "6.7",
+      "description": "Gaurav's world revolves around the superstar Aryan Khanna. What happens when his passion turns into a dangerous obsession that crosses the fine line?"
+    },
+    {
+      "name": "Tumhari Sulu",
+      "id": " tumhari-sulu",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYzZhMTFiNDgtM2ExMi00OTA3LTg4YjctNWIwZDIzN2NmODU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Tumhari Sulu is a 2017 Indian Hindi-language comedy-drama film directed by Suresh Triveni. The film stars Vidya Balan as a middle-class housewife who unexpectedly becomes a successful radio jockey."
     }
     
     
