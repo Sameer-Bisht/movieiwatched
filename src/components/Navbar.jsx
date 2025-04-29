@@ -16,8 +16,7 @@ export const Navbar = () => {
           className="container-fluid"
         >
           <a style={{fontSize:"3rem"}} className="navbar-brand" href="/">
-            C for Cinema
-          </a>
+            I Watch Movies  </a>
         </div>
       </nav>
 
