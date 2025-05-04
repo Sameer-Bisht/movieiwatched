@@ -7,7 +7,8 @@
     "description": "A group of desperate contestants risk their lives to become the final winner in a mysterious extreme survival game.",
     "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
     "genre": ["Mystery", "Thriller"],
-    "watch_url": "https://www.netflix.com/title/81214936"
+    "watch_url": "https://www.netflix.com/title/81214936",
+    "year": 2024
   },
   {
     "name": "Hangover 3",
@@ -17,7 +18,8 @@
     "description": "The Wolf Pack gets into trouble again as they search for their friend in Las Vegas.",
     "cast": ["Bradley Cooper", "Ed Helms", "Zach Galifianakis"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/70258393"
+    "watch_url": "https://www.netflix.com/title/70258393",
+    "year": 2013
   },
   {
     "name": "Mad Max Fury Road",
@@ -27,7 +29,8 @@
     "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant.",
     "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
     "genre": ["Action"],
-    "watch_url": "https://www.netflix.com/title/80023626"
+    "watch_url": "https://www.netflix.com/title/80023626",
+    "year": 2015
   },
   {
     "name": "Mad Max Furiosa",
@@ -37,7 +40,8 @@
     "description": "The origin story of Furiosa, detailing her journey in a post-apocalyptic world.",
     "cast": ["Anya Taylor-Joy", "Chris Hemsworth"],
     "genre": ["Action"],
-    "watch_url": "https://www.netflix.com/title/81613584"
+    "watch_url": "https://www.netflix.com/title/81613584",
+    "year": 2024
   },
   {
     "name": "XO Kitty 2",
@@ -47,7 +51,8 @@
     "description": "Kitty navigates love and friendships in her second year at a Korean boarding school.",
     "cast": ["Anna Cathcart", "Minyeong Choi", "Gia Kim"],
     "genre": ["Teen Drama"],
-    "watch_url": "https://www.netflix.com/title/81413647"
+    "watch_url": "https://www.netflix.com/title/81413647",
+    "year": 2024
   },
   {
     "name": "Go Goa Gone",
@@ -57,7 +62,8 @@
     "description": "A group of friends faces a zombie apocalypse during a rave party in Goa.",
     "cast": ["Saif Ali Khan", "Kunal Kemmu", "Vir Das"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/70258973"
+    "watch_url": "https://www.netflix.com/title/70258973",
+    "year": 2013
   },
   {
     "name": "Khel Khel Mein",
@@ -67,7 +73,8 @@
     "description": "A comedy about friends revealing secrets during a dinner game.",
     "cast": ["Akshay Kumar", "Taapsee Pannu", "Vaani Kapoor"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/81712345"
+    "watch_url": "https://www.netflix.com/title/81712345",
+    "year": 2024
   },
   {
     "name": "The Martian",
@@ -77,7 +84,8 @@
     "description": "An astronaut stranded on Mars fights to survive and signal for rescue.",
     "cast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
     "genre": ["Sci-Fi"],
-    "watch_url": "https://www.netflix.com/title/80058329"
+    "watch_url": "https://www.netflix.com/title/80058329",
+    "year": 2015
   },
   {
     "name": "Delhi Belly",
@@ -87,7 +95,8 @@
     "description": "Three friends get entangled in a chaotic crime caper in Delhi.",
     "cast": ["Imran Khan", "Vir Das", "Kunaal Roy Kapur"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/70181192"
+    "watch_url": "https://www.netflix.com/title/70181192",
+    "year": 2011
   },
   {
     "name": "Catch Me If You Can",
@@ -97,7 +106,8 @@
     "description": "A con artist is chased by an FBI agent while pulling off elaborate scams.",
     "cast": ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken"],
     "genre": ["Mystery"],
-    "watch_url": "https://www.netflix.com/title/60024946"
+    "watch_url": "https://www.netflix.com/title/60024946",
+    "year": 2002
   },
   {
     "name": "Good Will Hunting",
@@ -107,7 +117,8 @@
     "description": "A genius janitor with a troubled past is mentored by a therapist and a professor.",
     "cast": ["Matt Damon", "Robin Williams", "Ben Affleck"],
     "genre": ["Feel Good"],
-    "watch_url": "https://www.netflix.com/title/177448"
+    "watch_url": "https://www.netflix.com/title/177448",
+    "year": 1997
   },
   {
     "name": "Andhadhun",
@@ -117,7 +128,8 @@
     "description": "A blind pianist gets caught in a web of crime and deception.",
     "cast": ["Ayushmann Khurrana", "Tabu", "Radhika Apte"],
     "genre": ["Mystery"],
-    "watch_url": "https://www.netflix.com/title/81039229"
+    "watch_url": "https://www.netflix.com/title/81039229",
+    "year": 2018
   },
   {
     "name": "Blackmail",
@@ -127,7 +139,8 @@
     "description": "A man blackmails his cheating wife, leading to unexpected consequences.",
     "cast": ["Irrfan Khan", "Kirti Kulhari", "Arunoday Singh"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/81039230"
+    "watch_url": "https://www.netflix.com/title/81039230",
+    "year": 2018
   },
   {
     "name": "The Wild Robot",
@@ -137,7 +150,8 @@
     "description": "A robot stranded on an island learns to adapt and care for its inhabitants.",
     "cast": ["Lupita Nyong'o", "Pedro Pascal", "Catherine O'Hara"],
     "genre": ["Feel Good", "Animated"],
-    "watch_url": "https://www.netflix.com/title/81613585"
+    "watch_url": "https://www.netflix.com/title/81613585",
+    "year": 2024
   },
   {
     "name": "Fallout",
@@ -147,7 +161,8 @@
     "description": "Survivors navigate a post-apocalyptic world after a nuclear fallout.",
     "cast": ["Ella Purnell", "Aaron Moten", "Walton Goggins"],
     "genre": ["Sci-Fi"],
-    "watch_url": "https://www.amazon.com/Fallout-Season-1/dp/B0CN4D2D6R"
+    "watch_url": "https://www.amazon.com/Fallout-Season-1/dp/B0CN4D2D6R",
+    "year": 2024
   },
   {
     "name": "Merry Christmas",
@@ -157,7 +172,8 @@
     "description": "A Christmas Eve encounter turns into a thrilling mystery.",
     "cast": ["Katrina Kaif", "Vijay Sethupathi"],
     "genre": ["Mystery"],
-    "watch_url": "https://www.netflix.com/title/81613586"
+    "watch_url": "https://www.netflix.com/title/81613586",
+    "year": 2024
   },
   {
     "name": "Gangs of Wasseypur",
@@ -167,7 +183,8 @@
     "description": "A saga of revenge and power struggles in a coal mafia family.",
     "cast": ["Manoj Bajpayee", "Richa Chadha", "Nawazuddin Siddiqui"],
     "genre": ["Action"],
-    "watch_url": "https://www.netflix.com/title/70228573"
+    "watch_url": "https://www.netflix.com/title/70228573",
+    "year": 2012
   },
   {
     "name": "Gangs of Wasseypur 2",
@@ -177,7 +194,8 @@
     "description": "The saga continues with more bloodshed and betrayal in Wasseypur.",
     "cast": ["Nawazuddin Siddiqui", "Huma Qureshi", "Richa Chadha"],
     "genre": ["Action"],
-    "watch_url": "https://www.netflix.com/title/70228574"
+    "watch_url": "https://www.netflix.com/title/70228574",
+    "year": 2012
   },
   {
     "name": "Fight Club",
@@ -187,7 +205,8 @@
     "description": "A disillusioned man forms an underground fight club with a mysterious stranger.",
     "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
     "genre": ["Mystery", "Thriller"],
-    "watch_url": "https://www.netflix.com/title/26004747"
+    "watch_url": "https://www.netflix.com/title/26004747",
+    "year": 1999
   },
   {
     "name": "The Platform",
@@ -197,7 +216,8 @@
     "description": "In a vertical prison, inmates fight for food as it descends level by level.",
     "cast": ["Iván Massagué", "Zorion Eguileor", "Antonia San Juan"],
     "genre": ["Mystery", "Thriller"],
-    "watch_url": "https://www.netflix.com/title/81128579"
+    "watch_url": "https://www.netflix.com/title/81128579",
+    "year": 2019
   },
   {
     "name": "The 8 Show",
@@ -207,7 +227,8 @@
     "description": "Eight contestants compete in a high-stakes game for a massive cash prize.",
     "cast": ["Ryu Jun-yeol", "Chun Woo-hee", "Park Jeong-min"],
     "genre": ["Mystery"],
-    "watch_url": "https://www.netflix.com/title/81613587"
+    "watch_url": "https://www.netflix.com/title/81613587",
+    "year": 2024
   },
   {
     "name": "Badass Ravikumar",
@@ -217,7 +238,8 @@
     "description": "A larger-than-life hero takes on crime with style and swagger.",
     "cast": ["Himesh Reshammiya"],
     "genre": ["Action", "Comedy", "Drama"],
-    "watch_url": "https://www.netflix.com/title/81613588"
+    "watch_url": "https://www.netflix.com/title/81613588",
+    "year": 2025
   },
   {
     "name": "Talaash",
@@ -227,7 +249,8 @@
     "description": "A cop investigates a mysterious death while grappling with personal loss.",
     "cast": ["Aamir Khan", "Rani Mukerji", "Kareena Kapoor"],
     "genre": ["Mystery", "Thriller"],
-    "watch_url": "https://www.netflix.com/title/70228575"
+    "watch_url": "https://www.netflix.com/title/70228575",
+    "year": 2012
   },
   {
     "name": "The Last of Us",
@@ -237,7 +260,8 @@
     "description": "A smuggler escorts a teenage girl through a post-apocalyptic world.",
     "cast": ["Pedro Pascal", "Bella Ramsey"],
     "genre": ["Survival"],
-    "watch_url": "https://www.hbo.com/the-last-of-us"
+    "watch_url": "https://www.hbo.com/the-last-of-us",
+    "year": 2023
   },
   {
     "name": "The Revenant",
@@ -247,17 +271,19 @@
     "description": "A frontiersman seeks revenge after being left for dead in the wilderness.",
     "cast": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
     "genre": ["Survival"],
-    "watch_url": "https://www.netflix.com/title/80050992"
+    "watch_url": "https://www.netflix.com/title/80050992",
+    "year": 2015
   },
   {
     "name": "The Curious Case of Benjamin Button",
     "id": "the-curious-case-of-benjamin-button",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6z9y0_`z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "8.5",
     "description": "A man ages backward, experiencing life in reverse.",
     "cast": ["Brad Pitt", "Cate Blanchett", "Tilda Swinton"],
     "genre": ["Feel Good"],
-    "watch_url": "https://www.netflix.com/title/70108782"
+    "watch_url": "https://www.netflix.com/title/70108782",
+    "year": 2008
   },
   {
     "name": "Spirited Away",
@@ -267,146 +293,161 @@
     "description": "A young girl navigates a magical world to save her parents.",
     "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
     "genre": ["Fantasy", "Animated"],
-    "watch_url": "https://www.netflix.com/title/60023624"
+    "watch_url": "https://www.netflix.com/title/60023624",
+    "year": 2001
   },
   {
     "name": "Blood Diamond",
     "id": "blood-diamond",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:GcS8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "7.0",
     "description": "A fisherman and a smuggler search for a rare diamond in war-torn Sierra Leone.",
     "cast": ["Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly"],
     "genre": ["Thriller"],
-    "watch_url": "https://www.netflix.com/title/70059706"
+    "watch_url": "https://www.netflix.com/title/70059706",
+    "year": 2006
   },
   {
     "name": "Dhoom Dhaam",
     "id": "dhoom-dhaam",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:GcT9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "3.0",
     "description": "A chaotic comedy about mistaken identities and hilarious misadventures.",
     "cast": ["Unknown"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/81613589"
+    "watch_url": "https://www.netflix.com/title/81613589",
+    "year": 2024
   },
   {
     "name": "Grave of the Fireflies",
     "id": "grave-of-the-fireflies",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcU0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q:GcU0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "8.5",
     "description": "Two siblings struggle to survive in Japan during World War II.",
     "cast": ["Tsutomu Tatsumi", "Ayano Shiraishi"],
     "genre": ["Drama", "Animated"],
-    "watch_url": "https://www.netflix.com/title/60010424"
+    "watch_url": "https://www.netflix.com/title/60010424",
+    "year": 1988
   },
   {
-    "name": "99",
+    "name budyn": "99",
     "id": "99",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcV1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q:GcV1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "7.5",
     "description": "A small-time crook gets involved in a big-time cricket betting scam.",
     "cast": ["Kunal Kemmu", "Boman Irani", "Soha Ali Khan"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/70123112"
+    "watch_url": "https://www.netflix.com/title/70123112",
+    "year": 2009
   },
   {
     "name": "You Don't Mess with the Zohan",
     "id": "you-dont-mess-with-the-zohan",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcW2z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcW2z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "6.5",
     "description": "An Israeli commando fakes his death to become a hairdresser in New York.",
     "cast": ["Adam Sandler", "John Turturro", "Emmanuelle Chriqui"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/70108783"
+    "watch_url": "https://www.netflix.com/title/70108783",
+    "year": 2008
   },
   {
     "name": "Invincible 3",
     "id": "invincible-3",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcX3z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcX3z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "9.0",
-    "description": "Mark Grayson faces new threats as he balances his superhero life.",
+    "description": "Mark Grayson faces new threats as heliable superhero life.",
     "cast": ["Steven Yeun", "Sandra Oh", "J.K. Simmons"],
     "genre": ["Superhero"],
-    "watch_url": "https://www.amazon.com/Invincible-Season-3/dp/B0CN4D2D7S"
+    "watch_url": "https://www.amazon.com/Invincible-Season-3/dp/B0CN4D2D7S",
+    "year": 2025
   },
   {
     "name": "Jojo Rabbit",
     "id": "jojo-rabbit",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcY4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcY4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "10.0",
     "description": "A boy’s imaginary friend, Adolf Hitler, guides him during WWII.",
     "cast": ["Roman Griffin Davis", "Thomasin McKenzie", "Scarlett Johansson"],
     "genre": ["Feel Good"],
-    "watch_url": "https://www.netflix.com/title/81157374"
+    "watch_url": "https://www.netflix.com/title/81157374",
+    "year": 2019
   },
   {
     "name": "Laapataa Ladies",
     "id": "laapataa-ladies",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcZ5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcZ5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "9.0",
     "description": "Two brides get swapped on a train, leading to a heartwarming comedy.",
     "cast": ["Nitanshi Goel", "Pratibha Ranta", "Sparsh Shrivastava"],
     "genre": ["Comedy"],
-    "watch_url": "https://www.netflix.com/title/81613590"
+    "watch_url": "https://www.netflix.com/title/81613590",
+    "year": 2024
   },
   {
     "name": "Flow",
     "id": "flow",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcA6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcA6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "8.5",
     "description": "A group of animals band together to survive in a perilous world.",
     "cast": ["Unknown"],
     "genre": ["Survival"],
-    "watch_url": "https://www.netflix.com/title/81613591"
+    "watch_url": "https://www.netflix.com/title/81613591",
+    "year": 2024
   },
   {
     "name": "The Truman Show",
     "id": "the-truman-show",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcB7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcB7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "9.0",
     "description": "A man discovers his entire life is a reality TV show.",
     "cast": ["Jim Carrey", "Laura Linney", "Ed Harris"],
     "genre": ["Mystery"],
-    "watch_url": "https://www.netflix.com/title/157811"
+    "watch_url": "https://www.netflix.com/title/157811",
+    "year": 1998
   },
   {
     "name": "Predestination",
     "id": "predestination",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcC8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcC8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "8.5",
     "description": "A time-traveling agent pursues a criminal in a mind-bending loop.",
     "cast": ["Ethan Hawke", "Sarah Snook", "Noah Taylor"],
     "genre": ["Sci-Fi"],
-    "watch_url": "https://www.netflix.com/title/70305895"
+    "watch_url": "https://www.netflix.com/title/70305895",
+    "year": 2014
   },
   {
     "name": "The Wolf of Wall Street",
     "id": "the-wolf-of-wall-street",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcD9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcD9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "8.0",
     "description": "A stockbroker’s rise and fall in a world of greed and excess.",
     "cast": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
     "genre": ["Drama"],
-    "watch_url": "https://www.netflix.com/title/70295166"
+    "watch_url": "https://www.netflix.com/title/70295166",
+    "year": 2013
   },
   {
     "name": "Barfi",
     "id": "barfi",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcE0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcE0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "9.0",
     "description": "A deaf-mute man finds love and joy in a world of challenges.",
     "cast": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
     "genre": ["Feel Good"],
-    "watch_url": "https://www.netflix.com/title/70228576"
+    "watch_url": "https://www.netflix.com/title/70228576",
+    "year": 2012
   },
   {
     "name": "Micky 17",
     "id": "micky-17",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcF1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcF1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
     "rating": "6.5",
     "description": "A space colonist repeatedly dies and regenerates on a dangerous mission.",
     "cast": ["Robert Pattinson", "Naomi Ackie", "Mark Ruffalo"],
     "genre": ["Sci-Fi"],
-    "watch_url": "https://www.netflix.com/title/81613592"
+    "watch_url": "https://www.netflix.com/title/81613592",
+    "year": 2025
   }
 ]
