@@ -3,7 +3,7 @@ import {Movies} from "./components/movies.jsx";
 import {SearchMovies} from "./components/SearchMovies"; 
 import {Navbar} from "./components/Navbar";
 import {SecondNav} from "./components/SecondNav";
-import  sauravData from "./api/sauravData.json";
+import  sauravData from "./api/SauravData.json";
 import sameerData from "./api/MovieWatchlist.json";
 import Lander from "./components/Lander";
 const App = () => {
