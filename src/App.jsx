@@ -1,36 +1,45 @@
-   import { Movies } from "./components/movies";
-   import { Navbar } from "./components/Navbar";
-import { SearchMovies } from "./components/SearchMovies";
-import { SecondNav } from "./components/SecondNav";
-import { BrowserRouter, Routes, Route, Router } from "react-router-dom";
-
-   const App = ()=>{
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {Movies} from "./components/Movies";
+import {SearchMovies} from "./components/SearchMovies"; 
+import {Navbar} from "./components/Navbar";
+import {SecondNav} from "./components/SecondNav";
+import  sauravData from "./api/sauravData.json";
+import sameerData from "./api/MovieWatchlist.json";
+import Lander from "./components/Lander";
+const App = () => {
   return (
-    <BrowserRouter basename="/">
-
+    <Router basename="/">
       <Routes>
-        <Route path="/" element={
-          
-          <>
+      <Route path="/" element={
+          <> 
             <Navbar />
             <SecondNav />
-           <Movies/>
+            <Lander/>
           </>
-          }>
-          
-        </Route>
+        }/>
+        <Route path="/bisht" element={
+          <> 
+            <Navbar />
+            <SecondNav />
+            <Movies data = {sameerData} />
+          </>
+        }/>
+        <Route path="/tamta" element={
+          <> 
+            <Navbar />
+            <SecondNav />
+            <Movies data = {sauravData} />
+          </>
+        }/>
         <Route path="/searchmovies" element={
           <>
             <SecondNav />
-           <SearchMovies/>
+            <SearchMovies />
           </>
-          }>
-        
-          
-        </Route>
+        }/>
       </Routes>
-    </BrowserRouter>
-  )
-}
+    </Router>
+  );
+};
 
 export default App;

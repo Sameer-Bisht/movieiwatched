@@ -20,6 +20,12 @@ export const SecondNav = ()=>{
         <li className="nav-item">
           <a className="nav-link" href="/searchmovies">Search For Movies To Watch</a>
         </li>
+        <li className="nav-item">
+          <a className="nav-link" href="/bisht">Sameer Bisht</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="/tamta"> Saurav Tamta</a>
+        </li>
        
        
         
