@@ -22,7 +22,7 @@
   {
     "name": "Mad Max Fury Road",
     "id": "mad-max-fury-road",
-    "img_url": "htthttps://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "8.0",
     "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant.",
     "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
@@ -32,7 +32,7 @@
   {
     "name": "Mad Max Furiosa",
     "id": "mad-max-furiosa",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcU4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "8.5",
     "description": "The origin story of Furiosa, detailing her journey in a post-apocalyptic world.",
     "cast": ["Anya Taylor-Joy", "Chris Hemsworth"],
@@ -42,7 +42,7 @@
   {
     "name": "XO Kitty 2",
     "id": "xo-kitty-2",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcV5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BYmQ0MzJlODUtYjI2ZS00ZWQzLTkxYzYtNjRjNDZlZTgzNmRkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "8.0",
     "description": "Kitty navigates love and friendships in her second year at a Korean boarding school.",
     "cast": ["Anna Cathcart", "Minyeong Choi", "Gia Kim"],
@@ -52,7 +52,7 @@
   {
     "name": "Go Goa Gone",
     "id": "go-goa-gone",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcW6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNmQ1NWI2M2MtOGVkNy00ZjViLWJiNmYtMjQ4NDA3YjNmZDczXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "7.0",
     "description": "A group of friends faces a zombie apocalypse during a rave party in Goa.",
     "cast": ["Saif Ali Khan", "Kunal Kemmu", "Vir Das"],
@@ -62,7 +62,7 @@
   {
     "name": "Khel Khel Mein",
     "id": "khel-khel-mein",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcX7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "hhttps://m.media-amazon.com/images/M/MV5BNjIxYzA3ZjItYWM5YS00NjI5LWEzNTQtZWQ3M2Y0NDFkMzc5XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "6.5",
     "description": "A comedy about friends revealing secrets during a dinner game.",
     "cast": ["Akshay Kumar", "Taapsee Pannu", "Vaani Kapoor"],
@@ -72,7 +72,7 @@
   {
     "name": "The Martian",
     "id": "the-martian",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcY8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
     "rating": "9.0",
     "description": "An astronaut stranded on Mars fights to survive and signal for rescue.",
     "cast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
