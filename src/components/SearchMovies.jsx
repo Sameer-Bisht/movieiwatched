@@ -161,6 +161,7 @@ export const SearchMovies = () => {
                         textDecoration: "none",
                         color: "brown",
                       }}
+                      target="_blank"
                       href={`https://m.imdb.com/title/${movie.imdbID}`}
                     >
                       See The IMDB Page Here

@@ -1,7 +1,7 @@
 import moviesList from "../api/MovieWatchlist.json";
 export const SecondNav = ()=>{
   
-  const numberOfMovies = moviesList.length;
+  
     return <>
         <nav style={{
             display:'flex',justifyContent:'center',alignItems:'center'
@@ -21,10 +21,6 @@ export const SecondNav = ()=>{
           <a className="nav-link" href="/searchmovies">Search For Movies To Watch</a>
         </li>
        
-        <li className="nav-item">
-          <a className="nav-link"  target="_blank" >{numberOfMovies} movies watched </a>
-          
-        </li>
        
         
       </ul>

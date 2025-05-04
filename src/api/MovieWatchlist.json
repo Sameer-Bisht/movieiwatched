@@ -217,8 +217,24 @@
       "img_url": "https://m.media-amazon.com/images/M/MV5BYzU5YjkyODYtNmIzOC00MWY3LWE0ZTUtZWU2MDZhODE3NDE1XkEyXkFqcGc@._V1_SX300.jpg",
       "rating": "7",
       "description": "Mimi is a 2021 Indian Hindi-language comedy-drama film directed by Laxman Utekar. The film stars Kriti Sanon as a surrogate mother, with Pankaj Tripathi, Sai Tamhankar, and Manoj Pahwa in supporting roles."
-    }
+    },
+    {
+          "name": "Vivah",
+      "id": "vivah",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDA4MTg0OGQtMmVmNS00MzYzLWExOWEtNzFiNGE1ZjQ0MmRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Poonam, a traditionally brought-up young woman, is to marry Prem, a groom chosen by her uncle. Poonam and Prem's faith and love are to be tested however, when an accident occurs and Poonam might be scarred for life."
     
+    },
+    {
+      "name": "Blink",
+      "id": "blink",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNjEyY2I2NGQtZTQ2NC00MjU3LTkwOWEtMmMzODdhNTU0NGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    }
+
     
 
   ]
